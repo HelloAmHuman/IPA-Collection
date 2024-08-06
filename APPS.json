@@ -1,0 +1,194 @@
+{
+  "name": "HelloAmHuman's IPA Library",
+  "identifier": "lol.helloamhuman.ipalibrary",
+  "sourceURL": "https://github.com/HelloAmHuman/IPA-Collection",
+  "apps": [
+    {
+      "name": "Five Nights at Freddy's 2",
+      "bundleIdentifier": "com.scottgames.fnaf2",
+      "version": "2.0.4",
+      "versionDate": "2024-08-05",
+      "size": 51436052,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/Five.Nights.at.Freddys.2.2.0.4.-.Copy.ipa",
+      "developerName": "Clickteam, LLC",
+      "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly. Welcome back to the new and improved Freddy Fazbear's Pizza!",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/30/b1/7430b134-0ebe-53ef-88b9-53cfc8d3acce/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp"
+    },
+    {
+      "name": "Five Nights at Freddy's 4",
+      "bundleIdentifier": "com.scottgames.fnaf4",
+      "version": "2.0.1",
+      "versionDate": "2024-08-05",
+      "size": 103531729,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/FNAF.4.@YJK.A_2.0.1_1662945324.-.Copy.ipa",
+      "developerName": "Clickteam LLC",
+      "localizedDescription": "In this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows. Playing as a child whose role is yet unknown, you must safeguard yourself until 6am by watching the doors, as well as warding off unwanted creatures that may venture into your closet or onto the bed behind you.
+
+
+You have only a flashlight to protect yourself. It will scare away things that may be creeping at the far end of the hallways, but be careful, and listen. If something has crept too close, then shining lights in its eyes will be your end.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ad/73/d4/ad73d428-ce0b-5b46-2883-9b424d0a3408/AppIcon-1x_U007epad-0-85-220-0.png/230x0w.webp"
+    },
+    {
+      "name": "Five Nights at Freddy's",
+      "bundleIdentifier": "com.scottgames.fivenights",
+      "version": "2.0.5",
+      "versionDate": "2024-08-05",
+      "size": 2357851,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/FNAF1.starfiles.co.ipa",
+      "developerName": "Clickteam LLC",
+      "localizedDescription": "Welcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.
+
+
+From your small office you must watch the security cameras carefully. You have a very limited amount of electricity that you're allowed to use per night (corporate budget cuts, you know). That means when you run out of power for the night- no more security doors and no more lights! If something isn't right- namely if Freddybear or his friends aren't in their proper places, you must find them on the monitors and protect yourself if needed!
+
+
+Can you survive five nights at Freddy's?",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/77/03/9b77034f-5ade-ddf5-9c2d-48fd8a546c62/AppIcon-1x_U007epad-0-85-220-0.png/230x0w.webp"
+    },
+    {
+      "name": "Five Nights at Freddy's 3",
+      "bundleIdentifier": "com.scottgames.fivenights3",
+      "version": "2.0.2",
+      "versionDate": "2024-08-05",
+      "size": 92699005,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/FNAF3.-.Copy.ipa",
+      "developerName": "Clickteam LLC",
+      "localizedDescription": "Thirty years after Freddy Fazbear's Pizza closed its doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of "Fazbear's Fright: The Horror Attraction" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.
+
+
+At first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...
+
+
+The attraction now has one animatronic.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/04/73/3a047302-0d1b-e510-fa85-bb9119f01709/AppIcon-1x_U007epad-0-85-220-0.png/230x0w.webp"
+    },
+    {
+      "name": "Geometry Dash",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "version": "2.205",
+      "versionDate": "2024-08-04",
+      "size": 161028092,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/Geometry-2.205_mod.-.Copy.ipa",
+      "developerName": "RobTop Games AB",
+      "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!
+
+
+"Frustratingly wonderful" - Kotaku
+
+
+"Geometry Dash provides all of the challenge expected from an “impossible” game while also making it more accessible to newcomers."
+
+- 148Apps
+
+
+"Geometry Dash is a fast-paced platformer that will leave you screaming in frustration, but you’ll keep coming back for more."
+
+- AppAdvice
+
+
+Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.
+
+
+Simple one touch game play with lots of levels that will keep you entertained for hours!
+
+
+Game Features
+
+• Rhythm-based Action Platforming!
+
+• Lots of levels with unique soundtracks!
+
+• Build and share your own levels using the level editor!
+
+• Unlock new icons and colors to customize your character!
+
+• Fly rockets, flip gravity and much more!
+
+• Use practice mode to sharpen your skills!
+
+• Game Center achievements with rewards!
+
+• Challenge yourself with the near impossible!",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/4a/71/1f4a714e-d52a-5ad1-3948-aee394c82159/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/230x0w.webp"
+    },
+    {
+      "name": "Papa's Cluckeria to Go!",
+      "bundleIdentifier": "com.flipline.papascluckeriatogo",
+      "version": "1.0.1",
+      "versionDate": "2024-08-04",
+      "size": 104037825,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/Papa.s.Cluckeria.To.Go_1.0.1_iOSGods.com.ipa",
+      "developerName": "Flipline Studios",
+      "localizedDescription": "Craft tasty chicken sandwiches and swirled slushes in Papa's Cluckeria To Go!
+
+
+-- ABOUT THE GAME --
+
+
+The Chicken Sandwich Wars have begun! When Papa Louie opens the first chicken sandwich restaurant in Oilseed Springs, rival chefs suddenly appear in town to give Papa Louie some competition! You'll be in charge of running Papa's Cluckeria, where you'll bread, batter, and fry foods to craft a variety of different sandwiches. Pile the sandwiches high with toppings and sauces, and create refreshing swirled slushes to serve your picky customers. Work your way through the holidays as you serve seasonal sandwiches and slushes, unlock new ingredients, and earn Daily Specials with delicious sandwich recipes -- and try to outlast your competition!",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/f5/47/c4f54756-5a28-168e-caea-1b6d346e7198/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/230x0w.webp"
+    },
+    {
+      "name": "Papa's Mocharia to Go!",
+      "bundleIdentifier": "com.flipline.papasmochariatogo",
+      "version": "1.0.2",
+      "versionDate": "2024-08-03",
+      "size": 51435698,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/Papa.s.Mocharia.To.Go_1.0.2_starsign.starfiles.co.ipa",
+      "developerName": "Flipline Studios",
+      "localizedDescription": "Create delicious coffee drinks and cannoli in Papa's Mocharia To Go!
+
+
+-- ABOUT THE GAME --
+
+
+Papa Louie has opened a brand-new coffee shop in New Pepperton, offering a variety of custom layered coffee drinks called Papaccinos. After you apply for a job as the barista of Papa's Mocharia, you learn that a year-long film is being made about the coffeehouse -- and you're now the main star! Under the watchful eye of the documentary crew, you'll be brewing espresso, steaming and frothing milk, and crafting eye-catching layered drinks for your picky customers. Work your way through the holidays as you serve seasonal coffee and cannoli, unlock new ingredients, and earn Daily Specials with delicious latte and macchiato recipes.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/f8/a9/48f8a98b-33d4-6e2f-39e8-0a80de180631/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/230x0w.webp"
+    },
+    {
+      "name": "Papa's Pastaria to Go!",
+      "bundleIdentifier": "com.flipline.papaspastariatogo",
+      "version": "1.0.1",
+      "versionDate": "2024-08-03",
+      "size": 175605,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/Papa.s.Pastaria.To.Go.v1.0.1.v20.7.2.3GS.Univ.64bit.os90.ok16.-user_hidden.bfi2.ipa",
+      "developerName": "Flipline Studios",
+      "localizedDescription": "Become Portallini's primo pasta chef in Papa's Pastaria To Go!
+
+
+-- ABOUT THE GAME --
+
+
+It's a destination wedding in the waterfront town of Portallini! When you can't find a hotel room for attending Little Edoardo and Olga's wedding, you decide to reserve the only available room at Papa's Pastaria, which also puts you in charge of the restaurant!
+
+
+You'll have to take orders, cook and stir noodles, and pour delicious sauces to craft a perfect plate of pasta! Add shakers and toppings onto each order of pasta, and finish off the meal with a side order of fresh-baked bread. Work your way through the holidays as you serve seasonal sensational dishes to your hungry customers, and unlock brand-new Daily Specials at the Pastaria!",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/7a/cc/23/7acc2376-f918-8072-22f2-592dbad2a13c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/230x0w.webp"
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "version": "1.21.1",
+      "versionDate": "2024-08-03",
+      "size": 4709367,
+      "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/2.0/Minecraft_1.21.1.ipa",
+      "developerName": "Mojang",
+      "localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs.
+
+
+Create, explore, and survive along or play with friends on all different devices. Scale craggy mountains, unearth elaborate caves, and mine large ore veins. Discover lush cave and dripstone cave biomes. Light up your world with candles to show what a savvy spelunker and master mountaineer you are!
+
+
+EXPAND YOUR GAME:
+
+Marketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.
+
+
+Slash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more.
+
+
+Add-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/a7/9b/55a79bdd-78eb-1a1c-3f51-dd5f3aea4f82/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/230x0w.webp"
+    }
+  ]
+}
