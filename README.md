@@ -7,7 +7,7 @@ credit to [JorkHub](https://jorkthepork.com) for this dns. Go sub to him he is c
 NEW
 added esign/alstore/whatever ipa sideloader repo
 <p align="center">
-    <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json](https://fwuf.in/#/esign:/ou/addsource?url=https://github.com/HelloAmHuman/IPA-Collection/raw/main/APPS.json">
+    <a href="https://fwuf.in/#/esign:addsource?url=https://github.com/HelloAmHuman/IPA-Collection/raw/main/APPS.json">
     <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=1e90ff" alt="Add repo to ESign">
   </a>
 </p>
