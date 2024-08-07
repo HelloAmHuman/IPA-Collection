@@ -1,0 +1,20 @@
+{
+  "name": "HelloAmHuman's IPA Repo",
+  "identifier": "com.helloamhuman.whyareyoureadingthis",
+  "sourceURL": "https://github.com/HelloAmHuman/IPA-Collection",
+  "apps": [
+    {
+      "name": "Five Nights at Freddy's 2",
+      "bundleIdentifier": "com.scottgames.fnaf2",
+	  "downloadURL": "https://github.com/HelloAmHuman/IPA-Collection/releases/download/1.0/Five.Nights.at.Freddys.2.2.0.4.-.Copy.ipa",
+      "developerName": "Clickteam LLC",
+      "subtitle": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.",
+      "localizedDescription": "Welcome back to the new and improved Freddy Fazbear's Pizza!",
+      "iconURL": "https://github.com/HelloAmHuman/IPA-Collection/blob/main/230x0w.png?raw=true",
+      "screenshotURLs": [
+        "https://github.com/HelloAmHuman/IPA-Collection/blob/main/313x0w.png?raw=true",
+        "https://github.com/HelloAmHuman/IPA-Collection/blob/main/313x0w%20(2).png?raw=true",
+        "https://github.com/HelloAmHuman/IPA-Collection/blob/main/313x0w%20(1).png?raw=true",
+      ]
+    }
+  ]
